@@ -6,4 +6,4 @@ Thumbs.db
 .jekyll-metadata
 _site/
 Gemfile
-Gemfilelock
+Gemfile.lock
