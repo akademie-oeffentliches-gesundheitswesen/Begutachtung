@@ -12,12 +12,12 @@ title: Begutachtung im Öffentlichen Gesundheitsdienst - Lehrbuch für den Öffe
 # Aux links for the upper right navigation
 aux_links:
   "Lehrbuch auf GitHub":
-    - "https://github.com/akademie-oeffentliches-gesundheitswesen/KJGD"
+    - "https://github.com/akademie-oeffentliches-gesundheitswesen/Begutachtung"
   "PDF":
-    - "screen-pdf/Der_Kinder-und_Jugendgesundheitsdienst_v1.pdf"
+    - "screen-pdf/gutachten-v1.pdf"
   "Web-Buch":
 
-    - "https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/webbuch/index.html#src=kjgb-wb/kjgd_v1.xhtml&bookMode=true"
+    - "https://akademie-oeffentliches-gesundheitswesen.github.io/Begutachtung/webbuch/index.html#src=gutachten/gut-v1.xhtml&bookMode=true"
 
 logo: "/images/akademie.png"
 
