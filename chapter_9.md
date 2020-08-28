@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 08. Wichtige rechtliche Rahmenbedingungen
+title: Wichtige rechtliche Rahmenbedingungen
 nav_order: 9
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Ärztliche Schweigepflicht
 
 Da die ärztliche Schweigepflicht auch im gutachterlichen Verfahren
@@ -527,9 +527,3 @@ Das Fehlen eines/r Dolmetschers/in hat im Einzelfall dazu geführt, dass
 das Gutachten, das die Grundlage für die Abschiebung war, als nicht
 tragfähig für die Entscheidung anzusehen ist (vgl. VG Karlsruhe
 29.05.15, Az. 7 K 2513/15).
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

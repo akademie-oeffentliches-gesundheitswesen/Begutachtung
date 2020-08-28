@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 06. Besonderheit bei der Begutachtung: Psychischer Störungen
+title: Besonderheit bei der Begutachtung: Psychischer Störungen
 nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Die Beurteilung psychischer Störungen erfolgt im günstigen Fall durch
 eine/n Fachärztin/-arzt. In der Realität werden aber psychiatrische
 Begutachtungen, insbesondere im Rahmen des öffentlichen
@@ -260,7 +260,7 @@ Medizinischen Fachgesellschaften e.V. 2012)</span> :
     Arbeitsplatzes, Arbeitsplatzkonflikte)
 
   - Rentenantragstellung
-    
+
     Auch die Beantwortung weiterer Fragen, z.B. nach dem Vorliegen einer
     Beeinträchtigung der Steuerungsfähigkeit zu einem früheren
     Zeitpunkt, kann unter Umständen nicht in der von der auftraggebenden
@@ -268,9 +268,3 @@ Medizinischen Fachgesellschaften e.V. 2012)</span> :
     begutachtende Person medizinisch korrekt bleiben und sich auch im
     Fall kritischer Nachfragen zum „non liquet“ (“es ist nicht klar”)
     bekennen.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

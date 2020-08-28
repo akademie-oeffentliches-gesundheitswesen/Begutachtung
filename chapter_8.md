@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 07. Mitwirkungspflicht der zu begutachtenden Personen/Probanden
+title: Mitwirkungspflicht der zu begutachtenden Personen/Probanden
 nav_order: 8
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Jede ärztliche Maßnahme, auch Begutachtungen, bedeuten einen erheblichen
 Eingriff in Grundrechte der betroffenen Person. Sie ist daher
 grundsätzlich nur mit Einwilligung zulässig. Nur ganz ausnahmsweise
@@ -192,7 +192,3 @@ die rechtliche Voraussetzung, dass die zu behandelnden Person in
 Ausübung ihres Selbstbestimmungsrechtes eine wirksame Einwilligung
 erklärt. Die Grenze der Zumutbarkeit bezieht sich auf die Mitwirkung
 bei Untersuchungen und auf die Mitwirkung bei Behandlungen.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

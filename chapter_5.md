@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 04. Formalia des Gutachtens
+title: Formalia des Gutachtens
 nav_order: 5
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Qualitätskriterien
 
 Um einen ausreichenden Qualitätsstandard für Gutachten sicherzustellen,
@@ -167,7 +167,3 @@ berücksichtigen. Diese können wertvolle diagnostische Hinweise sein.
 Außerdem kann die Wahrnehmung und Reflektion von Emotionen und
 Reaktionen verhindern, dass sich diese auf die gutachterliche
 Stellungnahme auswirken.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

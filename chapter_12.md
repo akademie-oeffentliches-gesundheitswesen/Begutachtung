@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Spezielle Gutachten
+title: Spezielle Gutachten
 nav_order: 12
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Befähigung zum Führen von Waffen
 
 Der Waffenbesitz und das Führen einer Waffe sind aufgrund gesetzlicher
@@ -363,7 +363,7 @@ Ausführungen zu amtsärztlichen Untersuchungen) ist durchzuführen.
 > Vorgeschichte, Untersuchung im Gesundheitsamt und ggf. ergänzenden
 > Befunden unter Berücksichtigung etwaiger vom Auftraggeber bezeichneter
 > Anforderungen ergeben).*
-> 
+>
 > *Die der Beurteilung zugrunde liegenden Unterlagen und Befunde
 > verbleiben im Gesundheitsamt.*
 
@@ -581,7 +581,7 @@ müssen:
     behandelnden Ärztinnen oder Ärzte kann verlangt werden, ist jedoch
     nicht immer erforderlich.
 
-  - 
+  -
   - in Zweifelsfällen ein Auszug aus der geltenden Prüfungsordnung, aus
     der hervorgeht, dass ein amtsärztliches Gutachten erforderlich ist
 
@@ -843,9 +843,3 @@ mit dem kurativmedizinischen Bereich nicht zu scheuen.
 Oder aber: den Begutachtungsauftrag im Sinne der sogenannten
 Übernahmeverantwortung als fachlich nicht hinreichend verfahrenssicher
 zurückzugeben.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

@@ -3,19 +3,9 @@ layout: page
 title: Annex-Abkürzungen
 nav_order: 13
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
+
+
 **AMDP** Arbeitsgemeinschaft für Methodik und Dokumentation in der
 Psychiatrie
 
@@ -74,7 +64,3 @@ Functioning, Disability and Health)
 **VwVfG** Verwaltungsverfahrensgesetz
 
 **WaffG** Waffengesetz
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

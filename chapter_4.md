@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 03. Gutachtenauftrag
+title: Gutachtenauftrag
 nav_order: 4
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Ein ärztliches Gutachten liegt vor, wenn ein/e Ärztin/Arzt aufgrund der
 medizinischen Fachkompetenz aus Zuständen oder Tatsachen, die sie/er
 selbst oder eine andere Person wahrgenommen hat, mithilfe der eigenen
@@ -161,7 +161,3 @@ Auftraggebers hilfreich:
 
   - Besondere Belastungen, z. B. Gehaltspfändung (Schulden, Spielsucht,
     Pflege ...)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

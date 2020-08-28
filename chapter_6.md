@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 05. Praktischer Ablauf der Begutachtung
+title: Praktischer Ablauf der Begutachtung
 nav_order: 6
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Prinzipiell ist der Ablauf einer Begutachtung abhängig von der
 Rechtsgrundlage des Gutachtens. Der praktische Ablauf der Begutachtung
 wird im Folgenden am Beispiel von Dienstfähigkeitsgutachten dargestellt.
@@ -138,7 +138,3 @@ Dienstfähigkeit einer Untersuchungsstelle aufgeführt:
 
   - Gegebenenfalls Anordnung einer fachärztlichen Zusatzuntersuchung
     (nach Abstimmung und erneuter Weisung durch Dienstvorgesetzten)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

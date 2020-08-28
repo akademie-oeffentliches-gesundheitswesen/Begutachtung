@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 02. Die Rolle als amtsärztliche/r Gutachter/in
+title: Die Rolle als amtsärztliche/r Gutachter/in
 nav_order: 3
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Die amts- bzw. sozialärztlich begutachtende Person wird gegenüber der
 auftraggebenden Stelle als Sachverständige/r tätig.
 
@@ -233,7 +233,3 @@ Zuständigkeiten können in einzelnen Bundesländern, zum Teil von Kommune
 zu Kommune unterschiedlich sein. Meistens ist ein wesentlicher Teil der
 gesetzlich geregelten Aufgaben amtsärztlicher Dienste die Erstellung von
 Gutachten.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 01. Juristischer Hintergrund: Amtsärztliche Gutachten im Verfahren
+title: Juristischer Hintergrund: Amtsärztliche Gutachten im Verfahren
 nav_order: 2
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Gesundheitsämter stellen einen Teil der allgemeinen Verwaltung dar und
 stellen zur Gutachtenerstellung Expertise aus Medizin und Verwaltung zur
 Verfügung. Die sachliche Basis für ein Gutachten ergibt sich zum einen
@@ -329,17 +329,17 @@ unter Kürzungen und Hervorhebungen − hier zitiert:
 > schaffen, aufgrund derer der Dienstherr – nicht: der Polizeiarzt –
 > prüfen und entscheiden kann, ob und in welchem Umfang und über
 > welchen Zeitraum dem Beamten Unfallausgleich zusteht“.*
-> 
+>
 > *. . . „Auch soweit die handelnde Behörde im Verlaufe des Verfahrens
 > mehrfach erklärt hat, sie könne ihren Unfallausgleich ablehnenden
 > Bescheid nicht aufheben, weil sie an das Gutachten des Polizeiarztes
 > gebunden sei, handelt es sich um einen gravierenden Rechtsirrtum“.*
-> 
+>
 > *„. . . das polizeiärztliche Gutachten \[hat\] nicht die Funktion,
 > über den Unfallausgleich zu entscheiden. Diese Entscheidung ist der
 > Verwaltung – und nachfolgend dem Gericht – vorbehalten. Die Verwaltung
 > kann daher – weil der Polizeiarzt überhaupt keine*
-> 
+>
 > *"Entscheidung" im eigentlichen Sinne trifft, sondern der Verwaltung
 > lediglich die tatsächliche Grundlage für die Entscheidung liefert –
 > nicht an das Testat des Polizeiarztes in diesem Sinne "gebunden" sein.
@@ -390,7 +390,3 @@ Entscheidungen führen kann.
 Nur wenn gegenseitiger Respekt für und auch Neugier auf das Fachgebiet
 des anderen vorhanden ist, werden im allgemeinen Sinne gute und im
 Rechtssinne richtige Entscheidungen entstehen können.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 09. Gutachtenbereich: Beamtenrecht, Einstellungs- & Dienstfähigkeitsbegutachtung, Beihilfe
+title: Gutachtenbereich: Beamtenrecht, Einstellungs- & Dienstfähigkeitsbegutachtung, Beihilfe
 nav_order: 10
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Beamtenrecht
 
 Das Beamtenrecht ist ein Teil des Öffentlichen Rechtes. Es regelt die
@@ -134,7 +134,7 @@ Mecklenburg-Vorpommern und Hamburg:
 > *§ 9 (2) MV) Die gesundheitliche Eignung für die Berufung in ein
 > Beamtenverhältnis ist aufgrund eines ärztlichen Gutachtens (§ 44)
 > festzustellen.*
-> 
+>
 > *(§ 9 (2) HH) Die gesundheitliche Eignung für die Berufung in ein
 > Beamtenverhältnis auf Lebenszeit oder in ein anderes Beamten- oder
 > Beschäftigungsverhältnis mit dem Ziel der späteren Verwendung im
@@ -276,7 +276,7 @@ Formulierungsvorschlag:
 > Einsatz- und Verwendungseinschränkungen anfügen oder auch bei
 > Probebeamten erneute Begutachtung vor der Berufung in das
 > Beamtenverhältnis auf Lebenszeit\].*
-> 
+>
 > *Ausgehend von den jetzigen Befunden sind jedoch keine tatsächlichen
 > Anhaltspunkte erkennbar, welche die Annahme rechtfertigen, eine
 > vorzeitige Dienstunfähigkeit bzw. häufige und erhebliche
@@ -317,7 +317,7 @@ Formulierungsvorschlag:
 > „konkrete Anknüpfungspunkte“ beschreiben\] Dies kann zu beruflichen
 > Einschränkungen, längeren/häufigeren Krankenphasen und/oder einer
 > vorzeitigen Dienstunfähigkeit führen.*
-> 
+>
 > *Allerdings können keine hinreichenden wissenschaftlichen Grundlagen
 > ermittelt werden, die ein negatives amtsärztliches Votum stützen
 > würden. Auch unter Berücksichtigung von möglicher Weise in der
@@ -400,12 +400,12 @@ angesehen wird.
 
 > Im Ergebnis der Begutachtung am xx.xx.20xx und der Würdigung der
 > vorgelegten Befunde wird festgestellt, dass bei
-> 
+>
 > **Maxima Mustermann**
-> 
+>
 > die für die vorgesehene Einstellung als Beamte/in auf Widerruf/Probe
 > erforderliche gesundheitliche Eignung vorliegt.
-> 
+>
 > Zum jetzigen Zeitpunkt sind keine Hinderungsgründe für eine spätere
 > Verbeamtung auf Probe sowie auf Lebenszeit erkennbar.
 
@@ -433,7 +433,7 @@ aufgeführt, so dass man erkennen kann, dass diese inhaltlich nahe
 beieinander liegen.
 
 > #### *§ 44 Dienstunfähigkeit:*
-> 
+>
 > *(1) Die Beamtin auf Lebenszeit oder der Beamte auf Lebenszeit ist in
 > den Ruhestand zu versetzen, wenn sie oder er wegen des körperlichen
 > Zustandes oder aus gesundheitlichen Gründen zur Erfüllung der
@@ -443,7 +443,7 @@ beieinander liegen.
 > Aussicht besteht, dass innerhalb weiterer sechs Monate die
 > Dienstfähigkeit wieder voll hergestellt ist. In den Ruhestand wird
 > nicht versetzt, wer anderweitig verwendbar ist.*
-> 
+>
 > *(2) Eine anderweitige Verwendung ist möglich, wenn ein anderes Amt,
 > auch einer anderen Laufbahn, übertragen werden kann. Die Übertragung
 > eines anderen Amtes ohne Zustimmung ist zulässig, wenn das neue Amt
@@ -451,14 +451,14 @@ beieinander liegen.
 > Endgrundgehalt verbunden ist wie das bisherige Amt und zu erwarten
 > ist, dass die Beamtin oder der Beamte den gesundheitlichen
 > Anforderungen des neuen Amtes genügt.*
-> 
+>
 > *(3) Zur Vermeidung der Versetzung in den Ruhestand kann einer Beamtin
 > oder einem Beamten unter Beibehaltung des übertragenen Amtes ohne
 > Zustimmung auch eine geringerwertige Tätigkeit übertragen werden, wenn
 > eine anderweitige Verwendung nicht möglich und die Wahrnehmung der
 > neuen Aufgabe unter Berücksichtigung der bisherigen Tätigkeit zumutbar
 > ist.*
-> 
+>
 > *(4) Zur Vermeidung einer Versetzung in den Ruhestand kann die Beamtin
 > oder der Beamte nach dem Erwerb der Befähigung für eine neue Laufbahn
 > auch ohne Zustimmung in ein Amt dieser Laufbahn mit geringerem
@@ -467,17 +467,17 @@ beieinander liegen.
 > Aufgabe unter Berücksichtigung der bisherigen Tätigkeit zumutbar ist.
 > Das neue Amt muss derselben Laufbahngruppe zugeordnet sein wie das
 > derzeitige Amt. Für die Übertragung bedarf es keiner Ernennung.*
-> 
+>
 > *(5) Die Beamtin oder der Beamte, die oder der nicht die Befähigung
 > für eine andere Laufbahn besitzt, ist verpflichtet, an
 > Qualifizierungsmaßnahmen für den Erwerb der neuen Befähigung
 > teilzunehmen.*
-> 
+>
 > *(6) Bestehen Zweifel über die Dienstunfähigkeit, besteht die
 > Verpflichtung, sich nach Weisung der Behörde ärztlich untersuchen und,
 > falls dies aus amtsärztlicher Sicht für erforderlich gehalten wird,
 > auch beobachten zu lassen.*
-> 
+>
 > *(7) Gesetzliche Vorschriften, die für einzelne Gruppen von Beamtinnen
 > und Beamten andere Voraussetzungen für die Beurteilung der
 > Dienstunfähigkeit bestimmen, bleiben unberührt.*
@@ -492,12 +492,12 @@ beieinander liegen.
 > werden, wenn der Beamtin oder dem Beamten nach § 44 Abs. 2 oder 3 ein
 > anderes Amt oder eine geringerwertige Tätigkeit übertragen werden
 > kann.*
-> 
+>
 > *(2) Die Arbeitszeit ist entsprechend der begrenzten Dienstfähigkeit
 > zu verkürzen. Mit Zustimmung der Beamtin oder des Beamten ist auch
 > eine Verwendung in einer nicht dem Amt entsprechenden Tätigkeit
 > möglich.*
-> 
+>
 > *(3) Die für die Ernennung zuständige Behörde entscheidet über die
 > Feststellung der begrenzten Dienstfähigkeit. Für das Verfahren gelten
 > die Vorschriften über die Dienstunfähigkeit entsprechend.*
@@ -511,7 +511,7 @@ beieinander liegen.
 > Dienstbehörde bestimmt, welche Ärztin oder welcher Arzt mit der
 > Fertigung von Gutachten beauftragt werden kann. Sie kann diese
 > Befugnis auf nachgeordnete Behörden übertragen.*
-> 
+>
 > *(2) Die Ärztin oder der Arzt teilt der Behörde auf Anforderung im
 > Einzelfall die tragenden Gründe des Gutachtens mit, soweit deren
 > Kenntnis für die Behörde unter Beachtung des Grundsatzes der
@@ -520,7 +520,7 @@ beieinander liegen.
 > versiegelten Umschlag zu übersenden und versiegelt zur Personalakte zu
 > nehmen. Sie darf nur für die Entscheidung der in Absatz 1 genannten
 > Fälle verwendet werden.*
-> 
+>
 > *(3) Zu Beginn der Untersuchung ist die Beamtin oder der Beamte auf
 > deren Zweck und die Mitteilungspflicht nach Absatz 2 hinzuweisen. Die
 > Ärztin oder der Arzt übermittelt der Beamtin oder dem Beamten oder,
@@ -539,7 +539,7 @@ beieinander liegen.
 > vorbehalten bleibt** die Dienstfähigkeit wieder voll hergestellt ist.
 > Von der Versetzung in den Ruhestand soll abgesehen werden, wenn eine
 > anderweitige Verwendung möglich ist.*
-> 
+>
 > Fett gedruckt ist hier die Öffnung für landesgesetzliche Regelungen.
 > Die Frist innerhalb von 6 Monaten ist allgemein üblich, die Fristen
 > bei Polizei, Feuerwehr und (in manchen Bundesländern beim
@@ -557,7 +557,7 @@ beieinander liegen.
 > erfüllt werden. Beamtinnen und Beamte, die nicht die Befähigung für
 > die andere Laufbahn besitzen, haben an Qualifizierungsmaßnahmen für
 > den Erwerb der neuen Befähigung teilzunehmen.*
-> 
+>
 > *(3) Zur Vermeidung der Versetzung in den Ruhestand kann der Beamtin
 > oder dem Beamten unter Beibehaltung des übertragenen Amtes ohne
 > Zustimmung auch eine geringerwertige Tätigkeit im Bereich desselben
@@ -572,7 +572,7 @@ beieinander liegen.
 > des übertragenen Amtes die Dienstpflichten noch während mindestens der
 > Hälfte der regelmäßigen Arbeitszeit erfüllen kann (begrenzte
 > Dienstfähigkeit).*
-> 
+>
 > *(2) Die Arbeitszeit ist entsprechend der begrenzten Dienstfähigkeit
 > herabzusetzen. Mit Zustimmung der Beamtin oder des Beamten ist auch
 > eine Verwendung in einer nicht dem Amt entsprechenden Tätigkeit
@@ -895,7 +895,3 @@ mit dem kurativmedizinischen Bereich nicht zu scheuen.
 Oder aber: den Begutachtungsauftrag im Sinne der sogenannten
 Übernahmeverantwortung als fachlich nicht hinreichend verfahrenssicher
 zurückzugeben.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

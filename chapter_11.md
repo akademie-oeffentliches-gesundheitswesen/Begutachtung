@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 10. Gutachtenbereich: Dienstunfall, Unfallheilverfahren & Beamtenversorgungsrecht
+title: Gutachtenbereich: Dienstunfall, Unfallheilverfahren & Beamtenversorgungsrecht
 nav_order: 11
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Dienstunfälle
 
 Im allgemeinen werden unter Dienstunfällen Ereignisse verstanden, die
@@ -248,7 +248,7 @@ gemachten psychischen Unfallfolgen auf psychiatrischem Fachgebiet.
 
 Gegebenenfalls sind Zusatzuntersuchungen wie bildgebende Verfahren oder
 neuropsychologische Untersuchungen zu veranlassen.  
-  
+
 Darüber hinaus sind, wie bei jeder Begutachtung, die einschlägigen
 ärztlichen Befundberichte aus stationären und ambulanten Behandlungen
 hinzuzuziehen und im Gutachten zu würdigen.
@@ -409,9 +409,3 @@ bzw. den zuständigen Dienstherrn, ist nicht vorgesehen. Die/der Beamte
 /in trägt vielmehr selbst die Verantwortung, dem Dienstherrn, bzw.
 Gutachter/in alle für das Beweissicherungsverfahren relevanten
 medizinischen Unterlagen zukommen zu lassen.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

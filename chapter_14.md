@@ -3,19 +3,9 @@ layout: page
 title: a. Beteiligte
 nav_order: 14
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
+
+
 ## Autoren/innen
 
 **Annette Fröhmel**
