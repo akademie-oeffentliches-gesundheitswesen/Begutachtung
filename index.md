@@ -4,47 +4,50 @@ title: Startseite
 nav_order: 1
 ---
 
-![Der Kinder- und Jugendgesundheitsdienst Buch](images/cover.png "Der Kinder- und Jugendgesundheitsdienst Buch"){:.imgcover}
-*Der Kinder- und Jugendgesundheitsdienst - Lehrbuch für den Öffentlichen Gesundheitsdienst*
+![Begutachtung im Öffentlichen Gesundheitsdienst Buch](images/cover.png "Begutachtung im Öffentlichen Gesundheitsdienst Buch"){:.imgcover}
+*Begutachtung im Öffentlichen Gesundheitsdienst - Lehrbuch für den Öffentlichen Gesundheitsdienst*
 
-Der Kinder- und Jugendgesundheitsdienst (KJGD) ist einer der zentralen
-Bereiche im Öffentliche Gesundheitsdienst (ÖGD). Er hat sich von der
-Einführung schulärztlicher Tätigkeit vor fast 150 Jahren immer wieder
-ändernden gesellschaftlichen Rahmenbedingungen angepasst und wurde
-weiterentwickelt. Die Arbeit im KJGD wurden in den letzten Jahrzehnten
-zunehmend methodisch standardisiert und konsekutiv ausgebaut, so das die
-heutigen Aufgaben weit über die ursprünglichen schulärztlichen Aufgaben
-hinausgehen.
+Das Erstellen von Gutachten, insbesondere für öffentliche Auftraggeber,
+ist eine zentrale Aufgabe von Ärztinnen und -ärzten in den
+amtsärztlichen Diensten der Gesundheitsämter und anderer Einrichtungen
+des Öffentlichen Gesundheitsdienstes. Es kann auch zukünftig davon
+ausgegangen werden, dass die Erstellung von Gutachten ein fester
+Bestandteil des ÖGD bleibt.
 
-Vor diesem Hintergrund ist es an der Zeit ein eigenständiges Lehrbuch
-für die im KJGD tätigen Ärztinnen und Ärzte, sowie alle interessierten
-Mitarbeiterinnen und Mitarbeiter in diesem Bereich zu erarbeiten und
-dabei die Ausgestaltung der Aufgaben und Tätigkeitsbereich umfangreich
-zu beschreiben.
+Die vielfältigen Begutachtungsanlässe im Öffentlichen Gesundheitsdienst
+werfen immer wieder neue Fragen auf. Daher ist es notwendig
+diesbezügliche Standards einzuführen, um neben der Orientierung an
+Rechtsnormen, Rechtsprechung und Stand der Wissenschaft hohe Qualität
+sicherstellen zu können.
 
-**Ein effektiver KJGD ist heute nicht nur notwendig, sondern angesichts
-der zunehmenden gesellschaftlichen Herausforderungen, wie beispielsweise
-durch die Inklusion, wichtiger denn je.**
+Mit dem vorliegenden Lehrbuch stellen wir ein zentrales Werk für die
+gutachterliche Tätigkeit für ärztliche Kollegen/innen zur Verfügung. Es
+stellt länderübergreifend die Lehrmeinung zu Begutachtung im ÖGD dar und
+ist ein Standardwerk zur Orientierung für die alltägliche praktische
+Arbeit in den Gesundheitsämtern. Darüber hinaus unterstützt es die
+Qualitätsentwicklung und Qualitätssicherung in der amtsärztlichen
+Begutachtung.
 
-Das Lehrbuch soll Mitarbeitern/innen in Gesundheitsämtern, aber auch aus
-anderen Einrichtungen des ÖGD, Grundlegenden Prinzipien und Methoden,
-sowie praktische Erfahrungen vermitteln damit diese sich zielgerecht auf
-die Arbeiten im KJGD vorbereiten können. Neben fachlichen
-Gesichtspunkten werden insbesondere Handlungsempfehlungen für die
-alltägliche Arbeit im Gesundheitsamt auf kommunaler Ebene gegeben. Eine
-ausführliche Literaturliste ergänzt das Lehrbuch als praktische
-Hilfsmittel.
-
-Die in diesem einzigartigen Lehrbuch zusammengefassten Inhalte beruhen
-auf jahrelanger theoretischer Auseinandersetzung und praktischer
-Erfahrung der Autoren/innen im ÖGD. **Das vorliegende Lehrbuch ist ein
+Die in diesem Lehrbuch zusammengefassten Inhalte beruhen auf jahrelanger
+theoretischer Auseinandersetzung und praktischer Erfahrung der
+Autoren/innen im ÖGD. **Das vorliegende Lehrbuch ist ein
 Gemeinschaftswerk aller beteiligten Autorinnen und Autoren und ist nicht
 die Meinung einzelner Institutionen oder einzelner Autoren und
 Autorinnen.**
 
-Es wird zukünftig aktualisiert und erweitert werden. Wir freuen uns
-daher, wenn Sie uns Ihre Anregungen, Kommentare und Ergänzungen
-mitteilen. Schicken Sie diese bitte an lehrbuch@akademie-oegw.de
+Der oder die Person, die begutachtet wird, ist kein Patient, kein
+Klient, kein Proband sondern: Versicherte/r, Beamtin/er, Beschäftigte/r,
+Beihilfeberechtigte/r, Verunfallte/r. Im Sinne der leichteren Lesbarkeit
+haben wir uns für den Begriff: „Proband/in“ entschieden, wohl wissend,
+dass dieser Begriff die Rechtsstellung der/des zu Begutachtenden nicht
+korrekt darstellt. Uns geht es auch darum, den Begriff:
+Patientin/Patient zu vermeiden, um klarzustellen, dass es sich hier
+nicht um kurative sondern gutachterliche Tätigkeiten handelt.
+
+Dieses Lehrbuch wird zukünftig aktualisiert und erweitert werden. Wir
+freuen uns daher, wenn Sie uns Ihre Anregungen, Kommentare und
+Ergänzungen mitteilen. Schicken Sie diese bitte an
+lehrbuch@akademie-oegw.de
 
 Wir nutzen
 **[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")** für Ihre

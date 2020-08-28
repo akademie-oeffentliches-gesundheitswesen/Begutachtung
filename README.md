@@ -7,9 +7,7 @@ DOI <a href="https://doi.org/10.25815/wfp2-y114" title="https://doi.org/10.25815
 Datum 2020<br/>
 Ort Berlin</p>
 
-Webseite: (under construction) <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/">https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/screen-pdf/gutachten-v1.pdf) | Print-on-demand (add link)
-
-Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/webbuch/index.html#src=gutachten/gut-v1.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/screen-pdf/gutachten-v1.pdf)
+Webseite: <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/">https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/screen-pdf/gutachten-v1.pdf) | [Webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/Gutachten/webbuch/index.html#src=gutachten/gut-v1.xhtml&bookMode=true)
 
 # Über das Lehrbuch
 
