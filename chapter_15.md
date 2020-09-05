@@ -1,10 +1,8 @@
 ---
 layout: page
 title: b. Über uns
-nav_order: 15
+nav_order: 16
 ---
-
-
 
 Des Lehr- und Handbuch ist ein gemeinsames Projekt der [Akademie für
 Öffentliches

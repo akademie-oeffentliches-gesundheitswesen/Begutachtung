@@ -1,10 +1,8 @@
 ---
 layout: page
 title: a. Beteiligte
-nav_order: 14
+nav_order: 15
 ---
-
-
 
 ## Autoren/innen
 
