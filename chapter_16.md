@@ -9,7 +9,7 @@ nav_order: 17
 <p>Begutachtung im Öffentlichen Gesundheitsdienst<br/>
 Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
 ISBN 978-3-9812871-5-8<br/>
-DOI <a href="https://doi.org/10.25815/wfp2-y114" title="https://doi.org/10.25815/wfp2-y114">10.25815/wfp2-y114</a><br/>
+DOI <a href="https://doi.org/10.61163/wfp2-y114" title="https://doi.org/10.61163/wfp2-y114">10.61163/wfp2-y114</a><br/>
 Datum 2020<br/>
 Ort Berlin</p>
 
